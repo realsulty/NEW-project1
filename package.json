@@ -1,0 +1,16 @@
+{
+  "name": "newproject1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "java.js",
+  "scripts": {
+    "deploy": "NEWPROJECT1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://realsulty.github.io/newproject1",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
