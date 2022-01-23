@@ -4,7 +4,7 @@
   "description": "",
   "main": "java.js",
   "scripts": {
-    "deploy": "NEWPROJECT1"
+    "deploy": "gh-pages -d newproject11"
   },
   "keywords": [],
   "author": "",
